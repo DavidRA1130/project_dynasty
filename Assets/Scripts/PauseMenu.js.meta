@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a25ca05d69950144a8606b2d37c0fc6d
+timeCreated: 1456523962
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bgPic: {fileID: 2800000, guid: 2826274737a87d347a8758feccd338a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

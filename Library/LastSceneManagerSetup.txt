@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/_Enemy_AI_demo_ TEST.unity
+  isLoaded: 1
+  isActive: 1
